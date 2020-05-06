@@ -1,0 +1,10 @@
+{
+    "name": "sharedcount",
+    "authors": [
+        {
+            "name": "ft-rockstar",
+            "email": "rockstar@fluxtechs.com"
+        }
+    ],
+    "require": {}
+}
