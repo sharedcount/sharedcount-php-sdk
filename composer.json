@@ -1,5 +1,6 @@
 {
     "name": "sharedcount/sharedcount-sdk",
+    "license": "MIT",
     "authors": [
         {
             "name": "ft-rockstar",
